@@ -1,3 +1,3 @@
 # day-night
-Day and night Switch
-A day and night switch using HTML and CSS
+A Day and Night Switch using HTML and CSS
+
